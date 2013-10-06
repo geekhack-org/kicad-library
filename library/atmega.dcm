@@ -1,0 +1,11 @@
+EESchema-DOCLIB  Version 2.0  Date: Sun 06 Oct 2013 01:58:45 PM CEST
+#
+$CMP ATMEGA32U2
+D AVR USB uC ISP 32kB Flash 1kB EEPROM 1kB SRAM USB 2.0 Full-speed/Low Speed Device Module, 2.7-5.5V, TQFP32 (-40 +85) PbFree
+$ENDCMP
+#
+$CMP ATMEGA32U4
+D AVR USB uC ISP 32kB Flash 1kB EEPROM 2.5kB SRAM ADC USB 2.0 Full-speed/Low Speed Device Module, 2.7-5.5V, TQFP44 (-40 +85) PbFree
+$ENDCMP
+#
+#End Doc Library
